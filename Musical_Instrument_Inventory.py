@@ -1,6 +1,11 @@
 # Build a Musical Instrument Inventory
 #  Description :
 ''' 
+This program demonstrates how to use classes and objects in Python to create a simple Musical Instrument Inventory. 
+
+It defines a class called MusicalInstrument with attributes like name and instrument_type, and methods such as play() and get_fact().
+
+Each object created from the class represents a different musical instrument, allowing us to store and display information about various instruments and perform actions like "playing" them or getting interesting facts about their type.
 
 '''
 
